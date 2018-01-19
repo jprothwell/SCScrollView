@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'SCScrollViewEx'
-  s.version  = '2.0.0'
+  s.version  = '3.0.0'
   s.platform = :ios
   s.ios.deployment_target = '6.0'
   s.summary  = 'UIScrollView subclass that can use a custom easing function to animate the setting of the content offset'
