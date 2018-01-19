@@ -6,8 +6,8 @@
 //
 //
 
-@import Foundation;
-@import CoreGraphics;
+#import <Foundation/Foundation.h>
+#import <CoreGraphics/CoreGraphics.h>
 
 @protocol SCEasingFunctionProtocol <NSObject>
 
